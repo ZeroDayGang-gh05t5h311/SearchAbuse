@@ -2,7 +2,7 @@
 
 SearchDork Scanner (Go)
 
-A defensive security research tool written in Go that automates search engine queries (dorks) to identify publicly exposed resources associated with a target domain.
+A defensive security research tool written in Go(with the original POC in python) that automates search engine queries (dorks) to identify publicly exposed resources associated with a target domain.
 
 The tool queries multiple search engines (DuckDuckGo, Bing, Google), parses results, and outputs discovered URLs in JSON, plaintext, or encrypted formats.
 
